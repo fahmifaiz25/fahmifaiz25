@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hii semuaanya 👋 
+kenalin aku Faiz dari prodi Teknologi Informasi UGM 2023😁. Apa aja sih Interest-ku?🧐 Jadii, sejauh ini, aku berminat di bidang Data Science, Cyber Security, dan Website Development. Untuk kedepannya, aku ingin mendalami ilmu Data Science untuk berbagai keperluan, seperti mempersiapkan capstone DTETI FT UGM sejak dini, membekali diri dalan menghadapi Data Science Competition, dan juga menguasai ilmu Data Science yang akan banyak diaplikasikan di Industri mendatang. 
 
 <!--
 **fahmifaiz25/fahmifaiz25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
